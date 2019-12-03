@@ -6,7 +6,7 @@
 # them a shorter filename and sorts them based on the new filename, which contains
 # metadata about the date and time
 ## 5 Oct 17
-
+# test
 # set ARM order number
 num = 'fitchk1/215357'
 #num = 'kushalievd1/212080'
